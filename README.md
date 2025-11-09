@@ -25,7 +25,7 @@ These solutions have been successfully used by **1,500+ companies** in Estonia a
 For the past **10 years**, actively working with **.NET** and modern **web architectures**.  
 Founder and developer of the SaaS platform [forwarder24.com](https://forwarder24.com).  
 Designing and building **B2B systems** tailored to specific business needs, acting as **CTO and lead engineer**.  
-Experienced in managing **international, multilingual projects** across different continents.
+I have experience in developing and managing projects covering multiple countries and language groups across different continents.
 
 ---
 
@@ -167,7 +167,7 @@ Need lahendused on viimaste aastakümnete jooksul olnud edukalt kasutusel **üle
 
 Viimased **10 aastat** olen aktiivselt töötanud **.NET** ja kaasaegsete **veebiarhitektuuride** alal.  
 Arendan oma SaaS-platvormi [forwarder24.com](https://forwarder24.com) ning loon **B2B-süsteeme**, mis on kohandatud ettevõtete individuaalsetele vajadustele, tegutsedes **CTO ja juhtiva arendajana**.  
-Mul on kogemus **rahvusvaheliste ja mitmekeelsete projektide** juhtimisel ja haldamisel mitmel kontinendil.
+Mul on kogemus mitut riiki ja keelerühma hõlmavate projektide arendamise ja haldamisega erinevatel mandritel.
 
 ---
 
