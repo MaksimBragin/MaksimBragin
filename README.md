@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 # 👋 Full Stack .NET Developer  
-**Software Engineer | Architect | CTO| CEO**
+**Software Engineer | Architect | CTO | CEO**
 
 [🇬🇧 English version](#english) | [🇷🇺 Русская версия](#russian) | [🇪🇪 Eesti versioon](#estonian)
 
