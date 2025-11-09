@@ -1,16 +1,13 @@
 # 👋 Full Stack .NET Developer  
 **Software Engineer | Architect | CTO**
 
----
-
-## 🌐 Language / Язык / Keel  
 [🇬🇧 English version](#english) | [🇷🇺 Русская версия](#russian) | [🇪🇪 Eesti versioon](#estonian)
 
 ---
 
 <a name="english"></a>
-<details open>
-<summary>🇬🇧 English version</summary>
+
+## 🇬🇧 English Version
 
 Software developer with **30+ years of experience** in designing and implementing business applications.
 
@@ -74,13 +71,15 @@ Developed software for the **Logistics Department of Tallinn University of Techn
 - ⚖️ Available to work as a **legal entity**;  
 - 💰 **Discounts available** for large-scale projects.
 
-</details>
+---
+
+🔝 [Back to top](#language--язык--keel)
 
 ---
 
 <a name="russian"></a>
-<details>
-<summary>🇷🇺 Русская версия</summary>
+
+## 🇷🇺 Русская версия
 
 Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений.
 
@@ -143,13 +142,15 @@ Developed software for the **Logistics Department of Tallinn University of Techn
 - ⚖️ Возможна работа как **физическое**, так и **юридическое лицо**;  
 - 💰 Предусмотрены **скидки при значительном объёме работ**.
 
-</details>
+---
+
+🔝 [Вверх](#language--язык--keel)
 
 ---
 
 <a name="estonian"></a>
-<details>
-<summary>🇪🇪 Eesti versioon</summary>
+
+## 🇪🇪 Eesti versioon
 
 Tarkvaraarendaja, kellel on **üle 30-aastane kogemus** ärirakenduste projekteerimisel ja elluviimisel.
 
@@ -212,4 +213,6 @@ Arendanud tarkvara **TalTechi logistikainstituudile** (endine TTÜ) ja teistele 
 - ⚖️ Töötan nii **füüsilise isiku** kui ka **juriidilise isikuna**;  
 - 💰 **Mahukamate projektide puhul on ette nähtud soodustused.**
 
-</details>
+---
+
+🔝 [Tagasi algusesse](#language--язык--keel)
