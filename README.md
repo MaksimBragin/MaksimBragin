@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # 👋 Full Stack .NET Developer  
 **Software Engineer | Architect | CTO**
 
@@ -73,7 +75,7 @@ Developed software for the **Logistics Department of Tallinn University of Techn
 
 ---
 
-🔝 [Back to top](#language--язык--keel)
+🔝 [Back to top](#top) | [🇷🇺 Русская версия](#russian) | [🇪🇪 Eesti versioon](#estonian)
 
 ---
 
@@ -144,7 +146,7 @@ Developed software for the **Logistics Department of Tallinn University of Techn
 
 ---
 
-🔝 [Вверх](#language--язык--keel)
+🔝 [Наверх](#top) | [🇬🇧 English version](#english) | [🇪🇪 Eesti versioon](#estonian)
 
 ---
 
@@ -215,4 +217,4 @@ Arendanud tarkvara **TalTechi logistikainstituudile** (endine TTÜ) ja teistele 
 
 ---
 
-🔝 [Tagasi algusesse](#language--язык--keel)
+🔝 [Tagasi algusesse](#top) | [🇬🇧 English version](#english) | [🇷🇺 Русская версия](#russian)
