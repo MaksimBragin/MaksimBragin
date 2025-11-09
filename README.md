@@ -3,7 +3,6 @@
 
 ---
 
-## 🌐 Language / Язык / Keel  
 [🇬🇧 English version](#-english-version) | [🇷🇺 Русская версия](#-русская-версия) | [🇪🇪 Eesti versioon](#-eesti-versioon)
 
 ---
