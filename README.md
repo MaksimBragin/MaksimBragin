@@ -13,8 +13,7 @@
 
 Software developer with **30+ years of experience** in designing and implementing business applications.
 
-Specialized in **web-based solutions** for automation of logistics, accounting, manufacturing, sales, and warehouse operations —  
-from internal ERP systems to cloud-based SaaS platforms.
+Specialized in **web-based solutions** for automation of logistics, accounting, manufacturing, sales, and warehouse operations — from internal ERP systems to cloud-based SaaS platforms.
 
 Author of **20+ full-featured software products** as **CEO and CTO**, including:  
 - 💼 a suite of desktop industry solutions — **CargoPro**, **ERP**, and **WMS**;  
@@ -51,14 +50,11 @@ I have experience in developing and managing projects covering multiple countrie
 
 ---
 
-Actively applying **AI technologies** in software design and development —  
-from **data analysis** and **business process automation** to **AI-assisted coding** and **development optimization**.
+Actively applying **AI technologies** in software design and development —  from **data analysis** and **business process automation** to **AI-assisted coding** and **development optimization**.
 
-Former **Microsoft Partner** (*Dynamics*),  
-currently collaborating with **Telerik (Progress)** on product development with a valid commercial license.
+Former **Microsoft Partner** (*Dynamics*), currently collaborating with **Telerik (Progress)** on product development with a valid commercial license.
 
-Participated in **publicly funded projects** (PRIA, ERAA, EAS).  
-Developed software for the **Logistics Department of Tallinn University of Technology (TalTech)** and other state-level organizations.
+Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed software for the **Logistics Department of Tallinn University of Technology (TalTech)** and other state-level organizations.
 
 ---
 
@@ -122,14 +118,11 @@ Developed software for the **Logistics Department of Tallinn University of Techn
 
 ---
 
-Активно применяю **AI** при проектировании и разработке решений —  
-от анализа данных и автоматизации бизнес-процессов до **AI-assisted coding** и оптимизации разработки.
+Активно применяю **AI** при проектировании и разработке решений — от анализа данных и автоматизации бизнес-процессов до **AI-assisted coding** и оптимизации разработки.
 
-Был партнёром **Microsoft** по *Dynamics*,  
-в настоящее время сотрудничаю с **Telerik (Progress)** по развитию продукта и имею их лицензию.
+Был партнёром **Microsoft** по *Dynamics*, в настоящее время сотрудничаю с **Telerik (Progress)** по развитию продукта и имею их лицензию.
 
-Участвовал в реализации **проектов с государственным финансированием** (PRIA, ERAA, EAS).  
-Разрабатывал ПО для **кафедры логистики Таллиннского технического университета (TalTech, ранее ТТУ)** и других предприятий государственного значения.
+Участвовал в реализации **проектов с государственным финансированием** (PRIA, ERAA, EAS). Разрабатывал ПО для **кафедры логистики Таллиннского технического университета (TalTech, ранее ТТУ)** и других предприятий государственного значения.
 
 ---
 
@@ -193,14 +186,11 @@ Mul on kogemus mitut riiki ja keelerühma hõlmavate projektide arendamise ja ha
 
 ---
 
-Kasutab aktiivselt **tehisintellekti (AI)** tarkvaralahenduste projekteerimisel ja arendamisel —  
-alates **andmeanalüüsist** ja **äriprotsesside automatiseerimisest** kuni **AI-toega koodikirjutamise** ja **arenduse optimeerimiseni**.
+Kasutab aktiivselt **tehisintellekti (AI)** tarkvaralahenduste projekteerimisel ja arendamisel — alates **andmeanalüüsist** ja **äriprotsesside automatiseerimisest** kuni **AI-toega koodikirjutamise** ja **arenduse optimeerimiseni**.
 
-Endine **Microsofti Dynamicsi partner**,  
-praegu teeb koostööd ettevõttega **Telerik (Progress)** toote arenduse vallas ja omab nende kommertslitsentsi.
+Endine **Microsofti Dynamicsi partner**, praegu teeb koostööd ettevõttega **Telerik (Progress)** toote arenduse vallas ja omab nende kommertslitsentsi.
 
-Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS).  
-Arendanud tarkvara **TalTechi logistikainstituudile** (endine TTÜ) ja teistele riikliku tähtsusega organisatsioonidele.
+Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tarkvara **TalTechi logistikainstituudile** (endine TTÜ) ja teistele riikliku tähtsusega organisatsioonidele.
 
 ---
 
