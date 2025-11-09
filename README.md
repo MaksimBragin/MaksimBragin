@@ -3,10 +3,12 @@
 
 ---
 
-[🇬🇧 English version](#-english-version) | [🇷🇺 Русская версия](#-русская-версия) | [🇪🇪 Eesti versioon](#-eesti-versioon)
+## 🌐 Language / Язык / Keel  
+[🇬🇧 English version](#english) | [🇷🇺 Русская версия](#russian) | [🇪🇪 Eesti versioon](#estonian)
 
 ---
 
+<a name="english"></a>
 <details open>
 <summary>🇬🇧 English version</summary>
 
@@ -76,6 +78,7 @@ Developed software for the **Logistics Department of Tallinn University of Techn
 
 ---
 
+<a name="russian"></a>
 <details>
 <summary>🇷🇺 Русская версия</summary>
 
@@ -144,6 +147,7 @@ Developed software for the **Logistics Department of Tallinn University of Techn
 
 ---
 
+<a name="estonian"></a>
 <details>
 <summary>🇪🇪 Eesti versioon</summary>
 
