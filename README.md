@@ -9,7 +9,7 @@
 
 <a name="english"></a>
 
-## 🇬🇧 English Version
+## In English
 
 Software developer with **30+ years of experience** in designing and implementing business applications.
 
@@ -77,7 +77,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 <a name="russian"></a>
 
-## 🇷🇺 Русская версия
+## На русском
 
 Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений.
 
@@ -145,7 +145,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 <a name="estonian"></a>
 
-## 🇪🇪 Eesti versioon
+## Eesti keeles
 
 Tarkvaraarendaja, kellel on **üle 30-aastane kogemus** ärirakenduste projekteerimisel ja elluviimisel.
 
