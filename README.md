@@ -75,7 +75,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 <a name="russian"></a>
 
-## На русском
+## <img src="https://flagcdn.com/w20/ru.png" alt="RU" width="32"/> На русском
 
 Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений.
 
@@ -143,7 +143,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 <a name="estonian"></a>
 
-## Eesti keeles
+## <img src="https://flagcdn.com/w20/ee.png" alt="EE" width="32"/> Eesti keeles
 
 Tarkvaraarendaja, kellel on **üle 30-aastane kogemus** ärirakenduste projekteerimisel ja elluviimisel.
 
