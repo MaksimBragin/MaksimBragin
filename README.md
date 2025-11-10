@@ -62,8 +62,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ### Additional Information
 
-- Not providing standalone “business card” websites as separate projects;  
-- Developing **landing pages** as part of own systems or within complex solutions;  
+- I specialize in websites as information systems — where functionality and data handling matter more than mere presentation;  
 - Available to work as a **legal entity**;  
 - **Discounts available** for large-scale projects.
 
@@ -130,8 +129,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ### Дополнительно
 
-- Не занимаюсь созданием отдельных сайтов-визиток “под ключ”;  
-- Разрабатываю **лендинги** как часть собственных систем или в составе комплексных проектов;  
+- Специализируюсь на сайтах как инфосистемах — там, где важна функциональность и работа с данными, а не только презентация;  
 - Возможна работа как **физическое**, так и **юридическое лицо**;  
 - Предусмотрены **скидки при значительном объёме работ**.
 
@@ -198,8 +196,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ### Täiendav teave
 
-- Ei paku eraldiseisvaid “visiitkaardi” veebilehti tellimusel;  
-- Arendan **landing-lehti** oma süsteemide osana või terviklahenduste sees;  
+- Olen spetsialiseerunud veebisaitidele kui infosüsteemidele — seal, kus tähtis on funktsionaalsus ja andmetega töötamine, mitte ainult esitus;  
 - Töötan nii **füüsilise isiku** kui ka **juriidilise isikuna**;  
 - **Mahukamate projektide puhul on ette nähtud soodustused.**
 
