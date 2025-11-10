@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://flagcdn.com/w20/gb.png" alt="EN" width="32"  style="border:1px solid #ccc; border-radius:4px; /> In English
+##In English
 
 Software developer with **30+ years of experience** in designing and implementing business applications.
 
@@ -75,7 +75,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 <a name="russian"></a>
 
-## <img src="https://flagcdn.com/w20/ru.png" alt="RU" width="32" style="border:1px solid #ccc; border-radius:4px;"/> На русском
+##На русском
 
 Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений.
 
@@ -143,7 +143,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 <a name="estonian"></a>
 
-## <img src="https://flagcdn.com/w20/ee.png" alt="EE" width="32"  style="border:1px solid #ccc; border-radius:4px; /> Eesti keeles
+##Eesti keeles
 
 Tarkvaraarendaja, kellel on **üle 30-aastane kogemus** ärirakenduste projekteerimisel ja elluviimisel.
 
