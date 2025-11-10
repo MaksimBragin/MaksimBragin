@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://flagcdn.com/w20/gb.png" alt="EN" width="40"/>In English
+## <img src="https://flagcdn.com/w20/gb.png" alt="EN" width="28"/> In English
 
 Software developer with **30+ years of experience** in designing and implementing business applications.
 
