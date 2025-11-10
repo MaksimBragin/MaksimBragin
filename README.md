@@ -3,7 +3,7 @@
 # 👋 Full Stack .NET Developer  
 **Software Engineer | Architect | CTO | CEO**
 
-[🇬🇧 English version](#english) | [🇷🇺 Русская версия](#russian) | [🇪🇪 Eesti versioon](#estonian)
+[In English](#english) | [На русском](#russian) | [Eesti keeles](#estonian)
 
 ---
 
@@ -16,8 +16,8 @@ Software developer with **30+ years of experience** in designing and implementin
 Specialized in **web-based solutions** for automation of logistics, accounting, manufacturing, sales, and warehouse operations — from internal ERP systems to cloud-based SaaS platforms.
 
 Author of **20+ full-featured software products** as **CEO and CTO**, including:  
-- 💼 a suite of desktop industry solutions — **CargoPro**, **ERP**, and **WMS**;  
-- 🧱 commercial products **EhitusEelarve** (500+ sales) and 🚚 **Sõidulehed** (500+ sales).  
+- a suite of desktop industry solutions — **CargoPro**, **ERP**, and **WMS**;  
+- commercial products **EhitusEelarve** (500+ sales) and **Sõidulehed** (500+ sales).  
 
 These solutions have been successfully used by **1,500+ companies** in Estonia and abroad — many still operating today.
 
@@ -58,7 +58,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-📬 **Open for collaboration, consulting, and exciting new projects.**
+ **Open for collaboration, consulting, and exciting new projects.**
 
 ---
 
@@ -85,8 +85,8 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 от внутренних ERP-решений до облачных SaaS-платформ.
 
 Автор **более 20 полноценных программных продуктов** в роли **CEO и CTO**, включая:  
-- 💼 группу десктопных отраслевых решений **CargoPro**, **ERP** и **WMS**;  
-- 🧱 тиражные продукты **EhitusEelarve** (более 500 продаж) и 🚚 **Sõidulehed** (более 500 продаж).  
+- группу десктопных отраслевых решений **CargoPro**, **ERP** и **WMS**;  
+- тиражные продукты **EhitusEelarve** (более 500 продаж) и **Sõidulehed** (более 500 продаж).  
 
 Эти решения за последние десятилетия использовались **более чем 1500 предприятиями** в Эстонии и за её пределами — многие из них применяются по сей день.
 
@@ -126,7 +126,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-📬 **Открыт к сотрудничеству, консультациям и новым интересным проектам.**
+**Открыт к сотрудничеству, консультациям и новым интересным проектам.**
 
 ---
 
@@ -153,8 +153,8 @@ Spetsialiseerunud **veebipõhistele lahendustele** logistika, raamatupidamise, t
 alates sisemistest ERP-süsteemidest kuni pilvepõhiste SaaS-platvormideni.
 
 **Üle 20 täieliku tarkvaratoote autor** tegevjuhina (CEO) ja tehnoloogiajuhina (CTO), sealhulgas:  
-- 💼 tööstusspetsiifiliste töölauarakenduste sari **CargoPro**, **ERP** ja **WMS**;  
-- 🧱 kommertstooded **EhitusEelarve** (500+ müüki) ja 🚚 **Sõidulehed** (500+ müüki).  
+- tööstusspetsiifiliste töölauarakenduste sari **CargoPro**, **ERP** ja **WMS**;  
+- kommertstooded **EhitusEelarve** (500+ müüki) ja **Sõidulehed** (500+ müüki).  
 
 Need lahendused on viimaste aastakümnete jooksul olnud edukalt kasutusel **üle 1500 ettevõttes** Eestis ja välismaal — paljud neist töötavad tänaseni.
 
