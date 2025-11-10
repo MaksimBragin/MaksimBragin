@@ -7,9 +7,7 @@
 
 ---
 
-<img src="https://flagcdn.com/w20/gb.png" alt="EN" width="20"/> In English
-
-## <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons/css/flag-icons.min.css">In English
+## <img src="https://flagcdn.com/w20/gb.png" alt="EN" width="20"/>In English
 
 Software developer with **30+ years of experience** in designing and implementing business applications.
 
