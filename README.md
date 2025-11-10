@@ -9,7 +9,7 @@
 
 <a name="english"></a>
 
-## In English
+## <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons/css/flag-icons.min.css">In English
 
 Software developer with **30+ years of experience** in designing and implementing business applications.
 
