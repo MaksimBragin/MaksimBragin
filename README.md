@@ -28,7 +28,7 @@ I have experience in developing and managing projects covering multiple countrie
 
 ---
 
-### 🔧 Core Competencies
+### Core Competencies
 
 ✔️ **Full Stack .NET Development:**  
 `.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
@@ -62,7 +62,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-### 💡 Additional Information
+### Additional Information
 
 - 🚫 Not providing standalone “business card” websites as separate projects;  
 - ✅ Developing **landing pages** as part of own systems or within complex solutions;  
@@ -71,7 +71,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-🔝 [Back to top](#top) | [🇷🇺 Русская версия](#russian) | [🇪🇪 Eesti versioon](#estonian)
+🔝 [Back to top](#top) | [На русском](#russian) | [Eesti keeles](#estonian)
 
 ---
 
@@ -96,7 +96,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-### 🔧 Основные компетенции
+### Основные компетенции
 
 ✔️ **Full Stack .NET разработка:**  
 `.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
@@ -130,7 +130,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-### 💡 Дополнительно
+### Дополнительно
 
 - 🚫 Не занимаюсь созданием отдельных сайтов-визиток “под ключ”;  
 - ✅ Разрабатываю **лендинги** как часть собственных систем или в составе комплексных проектов;  
@@ -139,7 +139,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-🔝 [Наверх](#top) | [🇬🇧 English version](#english) | [🇪🇪 Eesti versioon](#estonian)
+🔝 [Наверх](#top) | [In English](#english) | [Eesti keeles](#estonian)
 
 ---
 
@@ -164,7 +164,7 @@ Mul on kogemus mitut riiki ja keelerühma hõlmavate projektide arendamise ja ha
 
 ---
 
-### 🔧 Põhioskused
+### Põhioskused
 
 ✔️ **Full Stack .NET arendus:**  
 `.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
@@ -207,4 +207,4 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ---
 
-🔝 [Tagasi algusesse](#top) | [🇬🇧 English version](#english) | [🇷🇺 Русская версия](#russian)
+🔝 [Tagasi algusesse](#top) | [In English](#english) | [На русском](#russian)
