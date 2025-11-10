@@ -7,7 +7,7 @@
 
 ---
 
-<a name="english"></a>
+<img src="https://flagcdn.com/w20/gb.png" alt="EN" width="20"/> In English
 
 ## <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons/css/flag-icons.min.css">In English
 
