@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# 👋 Full Stack .NET Developer  
+# Full Stack .NET Developer  
 **Software Engineer | Architect | CTO | CEO**
 
 [In English](#english) | [На русском](#russian) | [Eesti keeles](#estonian)
@@ -198,7 +198,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ---
 
-### 💡 Täiendav teave
+### Täiendav teave
 
 - 🚫 Ei paku eraldiseisvaid “visiitkaardi” veebilehti tellimusel;  
 - ✅ Arendan **landing-lehti** oma süsteemide osana või terviklahenduste sees;  
