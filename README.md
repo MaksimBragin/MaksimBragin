@@ -75,7 +75,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 <a name="russian"></a>
 
-## <img src="https://flagcdn.com/w20/ru.png" alt="RU" width="32"  style="border:1px solid #ccc; border-radius:4px; /> На русском
+## <img src="https://flagcdn.com/w20/ru.png" alt="RU" width="32" style="border:1px solid #ccc; border-radius:4px;"/> На русском
 
 Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений.
 
