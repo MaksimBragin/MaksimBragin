@@ -209,20 +209,35 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ## 📸 Project Screenshots
 
+Below are a few selected screenshots demonstrating various projects and interfaces.
+
+<!-- 1-я строка: один скриншот по центру -->
 <p align="center">
-  <a href="./assets/full/F24.png"><img src="./assets/thumbs/F24_thumb.jpg" width="280" alt="Forwarder24 Dashboard"/></a>
-  <a href="./assets/full/F24_3.png"><img src="./assets/thumbs/F24_3_thumb.jpg" width="280" alt="Forwarder24 Reports"/></a>
-  <a href="./assets/full/F24_4.png"><img src="./assets/thumbs/F24_4_thumb.jpg" width="280" alt="Forwarder24 UI"/></a>
+  <img src="./assets/dashboard-view.png" width="700" alt="Dashboard view"/>
 </p>
+
+<!-- 2-я строка: два скриншота -->
 <p align="center">
-  <a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="280" alt="ERP Interface"/></a>
-  <a href="./assets/full/F24_6.png"><img src="./assets/thumbs/F24_6_thumb.jpg" width="280" alt="ERP Workflow"/></a>
-  <a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="280" alt="Warehouse Module"/></a>
+  <img src="./assets/login-screen.png" width="340" alt="Login screen"/>
+  <img src="./assets/erp-main-menu.png" width="340" alt="ERP main menu"/>
 </p>
+
+<!-- 3-я строка: два скриншота -->
 <p align="center">
-  <a href="./assets/full/Mobile1.png"><img src="./assets/thumbs/Mobile1_thumb.jpg" width="200" alt="Mobile App 1"/></a>
-  <a href="./assets/full/Mobile3.png"><img src="./assets/thumbs/Mobile3_thumb.jpg" width="200" alt="Mobile App 2"/></a>
-  <a href="./assets/full/TimeLineInfo.png"><img src="./assets/thumbs/TimeLineInfo_thumb.jpg" width="280" alt="Timeline Info"/></a>
+  <img src="./assets/invoice-module.png" width="340" alt="Invoice module"/>
+  <img src="./assets/warehouse-interface.png" width="340" alt="Warehouse interface"/>
+</p>
+
+<!-- 4-я строка: два скриншота -->
+<p align="center">
+  <img src="./assets/forwarder24-platform.png" width="340" alt="Forwarder24 platform"/>
+  <img src="./assets/settings-page.png" width="340" alt="Settings page"/>
+</p>
+
+<!-- 5-я строка: два скриншота -->
+<p align="center">
+  <img src="./assets/reports-overview.png" width="340" alt="Reports overview"/>
+  <img src="./assets/mobile-view.png" width="340" alt="Mobile view"/>
 </p>
 
 ---
