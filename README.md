@@ -209,52 +209,43 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ## 📸 Project Screenshots
 
+<!-- 1. Первая строка — скриншоты 2 и 3 -->
 <p align="center">
-  <!-- 1. Один большой скриншот -->
-  <a href="./assets/full/F24.png">
-    <img src="./assets/thumbs/F24_thumb.jpg" width="700" alt="Forwarder24 Main Dashboard"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- 2. Два скриншота -->
   <a href="./assets/full/F24_3.png">
-    <img src="./assets/thumbs/F24_3_thumb.jpg" width="340" alt="Forwarder24 Reports"/>
+    <img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:6px;" alt="Forwarder24 Reports"/>
   </a>
   <a href="./assets/full/F24_4.png">
-    <img src="./assets/thumbs/F24_4_thumb.jpg" width="340" alt="Forwarder24 UI"/>
+    <img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:6px;" alt="Forwarder24 UI"/>
   </a>
 </p>
 
+<!-- 2. Вторая строка — скриншоты 4 и 5 -->
 <p align="center">
-  <!-- 3. Два скриншота -->
   <a href="./assets/full/F24_5.png">
-    <img src="./assets/thumbs/F24_5_thumb.jpg" width="340" alt="ERP Interface"/>
+    <img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:6px;" alt="ERP Interface"/>
   </a>
   <a href="./assets/full/F24_6.png">
-    <img src="./assets/thumbs/F24_6_thumb.jpg" width="340" alt="ERP Workflow"/>
+    <img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:6px;" alt="ERP Workflow"/>
   </a>
 </p>
 
+<!-- 3. Предпоследняя строка — бывший первый скриншот (уменьшен) -->
 <p align="center">
-  <!-- 4. Два скриншота -->
-  <a href="./assets/full/F24_8.png">
-    <img src="./assets/thumbs/F24_8_thumb.jpg" width="340" alt="Warehouse Module"/>
-  </a>
-  <a href="./assets/full/TimeLineInfo.png">
-    <img src="./assets/thumbs/TimeLineInfo_thumb.jpg" width="340" alt="Timeline Info"/>
+  <a href="./assets/full/F24.png">
+    <img src="./assets/thumbs/F24_thumb.jpg" width="550" style="padding:6px;" alt="Forwarder24 Main Dashboard"/>
   </a>
 </p>
 
+<!-- 4. Последняя строка — мобильные скриншоты -->
 <p align="center">
-  <!-- 5. Два мобильных -->
   <a href="./assets/full/Mobile1.png">
-    <img src="./assets/thumbs/Mobile1_thumb.jpg" width="220" alt="Mobile App 1"/>
+    <img src="./assets/thumbs/Mobile1_thumb.jpg" width="220" style="padding:6px;" alt="Mobile App 1"/>
   </a>
   <a href="./assets/full/Mobile3.png">
-    <img src="./assets/thumbs/Mobile3_thumb.jpg" width="220" alt="Mobile App 2"/>
+    <img src="./assets/thumbs/Mobile3_thumb.jpg" width="220" style="padding:6px;" alt="Mobile App 2"/>
   </a>
 </p>
+
 
 ---
 
