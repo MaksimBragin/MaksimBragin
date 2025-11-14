@@ -209,45 +209,48 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ## 📸 Project Screenshots
 
-<!-- 1. Первая строка — F24_3 и (теперь) F24_8 -->
+<!-- 1. Первая строка — F24_3 и F24_8 -->
 <p align="center">
   <a href="./assets/full/F24_3.png"><img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Forwarder24 Reports"/></a>
   <a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Warehouse Module"/></a>
 </p>
 
-<!-- 2. Вторая строка — F24_5 и (теперь) F24_4 -->
+<!-- 2. Вторая строка — (теперь) F24_4 и F24_5 (поменяны местами) -->
 <p align="center">
-  <a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="ERP Interface"/></a>
   <a href="./assets/full/F24_4.png"><img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Forwarder24 UI"/></a>
+  <a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="ERP Interface"/></a>
 </p>
 
-<!-- 3. Третья строка — F24_6 и TimeLineInfo (выровнены по центру по высоте) -->
-<p align="center" style="line-height:0;">
+<!-- 3. Третья строка — только F24_6 -->
+<p align="center">
   <a href="./assets/full/F24_6.png">
     <img src="./assets/thumbs/F24_6_thumb.jpg"
          width="340"
-         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;vertical-align:middle;"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;"
          alt="ERP Workflow"/>
   </a>
+</p>
+
+<!-- 4. Четвёртая строка — TimeLineInfo увеличен вдвое -->
+<p align="center">
   <a href="./assets/full/TimeLineInfo.png">
     <img src="./assets/thumbs/TimeLineInfo_thumb.jpg"
-         width="340"
-         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;vertical-align:middle;"
+         width="680"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;"
          alt="Timeline Info"/>
   </a>
 </p>
 
-<!-- 4. Отдельная строка — F24 уменьшен вдвое (170px) -->
+<!-- 5. Отдельная строка — F24 уменьшенный (170 px) -->
 <p align="center">
   <a href="./assets/full/F24.png"><img src="./assets/thumbs/F24_thumb.jpg" width="170" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Forwarder24 Main Dashboard"/></a>
 </p>
 
-<!-- 5. Последняя строка — мобильные уменьшены вдвое (110px) -->
+<!-- 6. Последняя строка — мобильные уменьшены (110 px) -->
 <p align="center">
   <a href="./assets/full/Mobile1.png"><img src="./assets/thumbs/Mobile1_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Mobile App 1"/></a>
   <a href="./assets/full/Mobile3.png"><img src="./assets/thumbs/Mobile3_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Mobile App 2"/></a>
 </p>
-
 
 
 ---
