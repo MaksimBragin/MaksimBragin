@@ -210,12 +210,12 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 ## 📸 Project Screenshots
 
 <p align="center">
-  <a href="./assets/full/F24_3.png">
+  <a href="./assets/full/F24_3.png" style="text-decoration:none;">
     <img src="./assets/thumbs/F24_3_thumb.jpg"
          width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
-  <a href="./assets/full/F24_8.png">
+  <a href="./assets/full/F24_8.png" style="text-decoration:none;">
     <img src="./assets/thumbs/F24_8_thumb.jpg"
          width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
@@ -223,12 +223,12 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 </p>
 
 <p align="center">
-  <a href="./assets/full/F24_4.png">
+  <a href="./assets/full/F24_4.png" style="text-decoration:none;">
     <img src="./assets/thumbs/F24_4_thumb.jpg"
          width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
-  <a href="./assets/full/F24_5.png">
+  <a href="./assets/full/F24_5.png" style="text-decoration:none;">
     <img src="./assets/thumbs/F24_5_thumb.jpg"
          width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
@@ -236,7 +236,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 </p>
 
 <p align="center">
-  <a href="./assets/full/TimeLineInfo.png">
+  <a href="./assets/full/TimeLineInfo.png" style="text-decoration:none;">
     <img src="./assets/thumbs/TimeLineInfo_thumb.jpg"
          width="680"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
@@ -244,28 +244,25 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 </p>
 
 <p align="center">
-  <a href="./assets/full/F24.png">
+  <a href="./assets/full/F24.png" style="text-decoration:none;">
     <img src="./assets/thumbs/F24_thumb.jpg"
          width="235"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px 60px 28px 28px;" />
-         <!-- увеличенный правый margin: 60px -->
   </a>
-  <a href="./assets/full/F24_6.png">
+  <a href="./assets/full/F24_6.png" style="text-decoration:none;">
     <img src="./assets/thumbs/F24_6_thumb.jpg"
          width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
 </p>
 
-
-<!-- Последняя строка — мобильные (уменьшенные) -->
 <p align="center">
-  <a href="./assets/full/Mobile1.png">
+  <a href="./assets/full/Mobile1.png" style="text-decoration:none;">
     <img src="./assets/thumbs/Mobile1_thumb.jpg"
          width="150"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
-  <a href="./assets/full/Mobile3.png">
+  <a href="./assets/full/Mobile3.png" style="text-decoration:none;">
     <img src="./assets/thumbs/Mobile3_thumb.jpg"
          width="150"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
