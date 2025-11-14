@@ -211,14 +211,30 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 <!-- 1. Первая строка — F24_3 и F24_8 -->
 <p align="center">
-  <a href="./assets/full/F24_3.png"><img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
-  <a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
+  <a href="./assets/full/F24_3.png">
+    <img src="./assets/thumbs/F24_3_thumb.jpg"
+         width="340"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+  </a>
+  <a href="./assets/full/F24_8.png">
+    <img src="./assets/thumbs/F24_8_thumb.jpg"
+         width="340"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+  </a>
 </p>
 
 <!-- 2. Вторая строка — F24_4 и F24_5 -->
 <p align="center">
-  <a href="./assets/full/F24_4.png"><img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
-  <a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
+  <a href="./assets/full/F24_4.png">
+    <img src="./assets/thumbs/F24_4_thumb.jpg"
+         width="340"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+  </a>
+  <a href="./assets/full/F24_5.png">
+    <img src="./assets/thumbs/F24_5_thumb.jpg"
+         width="340"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+  </a>
 </p>
 
 <!-- 3. Третья строка — TimeLineInfo (увеличен в 2 раза, был 5-м) -->
@@ -239,19 +255,32 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- 5. Пятая строка — F24_6 (стал на место 7-го) -->
+<!-- 5. Пятая строка — F24_6 и F24_7 (оба на одной строке, одинаковый размер) -->
 <p align="center">
   <a href="./assets/full/F24_6.png">
     <img src="./assets/thumbs/F24_6_thumb.jpg"
          width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
+  <a href="./assets/full/F24_7.png">
+    <img src="./assets/thumbs/F24_7_thumb.jpg"
+         width="340"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+  </a>
 </p>
 
-<!-- 6. Шестая строка — мобильные -->
+<!-- 6. Шестая строка — мобильные (были 6 и 7, теперь в одной строке и как первые) -->
 <p align="center">
-  <a href="./assets/full/Mobile1.png"><img src="./assets/thumbs/Mobile1_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
-  <a href="./assets/full/Mobile3.png"><img src="./assets/thumbs/Mobile3_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
+  <a href="./assets/full/Mobile1.png">
+    <img src="./assets/thumbs/Mobile1_thumb.jpg"
+         width="340"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+  </a>
+  <a href="./assets/full/Mobile3.png">
+    <img src="./assets/thumbs/Mobile3_thumb.jpg"
+         width="340"
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+  </a>
 </p>
 
 
