@@ -212,37 +212,47 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 <!-- 1. Первая строка — скриншоты 2 и 3 -->
 <p align="center">
   <a href="./assets/full/F24_3.png">
-    <img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:6px;" alt="Forwarder24 Reports"/>
+    <img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="Forwarder24 Reports"/>
   </a>
   <a href="./assets/full/F24_4.png">
-    <img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:6px;" alt="Forwarder24 UI"/>
+    <img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="Forwarder24 UI"/>
   </a>
 </p>
 
-<!-- 2. Вторая строка — скриншоты 4 и 5 -->
+<!-- 2. Вторая строка — скриншоты 4 и 5 (ERP) -->
 <p align="center">
   <a href="./assets/full/F24_5.png">
-    <img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:6px;" alt="ERP Interface"/>
+    <img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="ERP Interface"/>
   </a>
   <a href="./assets/full/F24_6.png">
-    <img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:6px;" alt="ERP Workflow"/>
+    <img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="ERP Workflow"/>
   </a>
 </p>
 
-<!-- 3. Предпоследняя строка — бывший первый скриншот (уменьшен) -->
+<!-- 3. Третья строка — скриншоты Warehouse и Timeline (те самые, которых не хватало) -->
+<p align="center">
+  <a href="./assets/full/F24_8.png">
+    <img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="Warehouse Module"/>
+  </a>
+  <a href="./assets/full/TimeLineInfo.png">
+    <img src="./assets/thumbs/TimeLineInfo_thumb.jpg" width="340" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="Timeline Info"/>
+  </a>
+</p>
+
+<!-- 4. Предпоследняя строка — главный скриншот (уменьшен и центрирован) -->
 <p align="center">
   <a href="./assets/full/F24.png">
-    <img src="./assets/thumbs/F24_thumb.jpg" width="550" style="padding:6px;" alt="Forwarder24 Main Dashboard"/>
+    <img src="./assets/thumbs/F24_thumb.jpg" width="560" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:12px 6px;" alt="Forwarder24 Main Dashboard"/>
   </a>
 </p>
 
-<!-- 4. Последняя строка — мобильные скриншоты -->
+<!-- 5. Последняя строка — мобильные -->
 <p align="center">
   <a href="./assets/full/Mobile1.png">
-    <img src="./assets/thumbs/Mobile1_thumb.jpg" width="220" style="padding:6px;" alt="Mobile App 1"/>
+    <img src="./assets/thumbs/Mobile1_thumb.jpg" width="220" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="Mobile App 1"/>
   </a>
   <a href="./assets/full/Mobile3.png">
-    <img src="./assets/thumbs/Mobile3_thumb.jpg" width="220" style="padding:6px;" alt="Mobile App 2"/>
+    <img src="./assets/thumbs/Mobile3_thumb.jpg" width="220" style="padding:8px;border:1px solid #eee;border-radius:6px;margin:6px;" alt="Mobile App 2"/>
   </a>
 </p>
 
