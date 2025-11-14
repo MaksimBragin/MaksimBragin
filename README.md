@@ -237,7 +237,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- 3. Третья строка — TimeLineInfo (увеличен в 2 раза, был 5-м) -->
+<!-- 3. Третья строка — TimeLineInfo (увеличенный) -->
 <p align="center">
   <a href="./assets/full/TimeLineInfo.png">
     <img src="./assets/thumbs/TimeLineInfo_thumb.jpg"
@@ -246,39 +246,30 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- 4. Четвёртая строка — F24 (стал на место 6-го) -->
+<!-- 4+5. Объединённая строка — F24 и F24_6 (одинаковый размер) -->
 <p align="center">
   <a href="./assets/full/F24.png">
     <img src="./assets/thumbs/F24_thumb.jpg"
-         width="170"
+         width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
-</p>
-
-<!-- 5. Пятая строка — F24_6 и F24_7 (оба на одной строке, одинаковый размер) -->
-<p align="center">
   <a href="./assets/full/F24_6.png">
     <img src="./assets/thumbs/F24_6_thumb.jpg"
          width="340"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
-  <a href="./assets/full/F24_7.png">
-    <img src="./assets/thumbs/F24_7_thumb.jpg"
-         width="340"
-         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
-  </a>
 </p>
 
-<!-- 6. Шестая строка — мобильные (были 6 и 7, теперь в одной строке и как первые) -->
+<!-- 6. Последняя строка — мобильные (уменьшенные) -->
 <p align="center">
   <a href="./assets/full/Mobile1.png">
     <img src="./assets/thumbs/Mobile1_thumb.jpg"
-         width="340"
+         width="150"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
   <a href="./assets/full/Mobile3.png">
     <img src="./assets/thumbs/Mobile3_thumb.jpg"
-         width="340"
+         width="150"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
 </p>
