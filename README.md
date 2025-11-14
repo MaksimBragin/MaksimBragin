@@ -215,15 +215,15 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   <a href="./assets/full/F24_4.png"><img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Forwarder24 UI"/></a>
 </p>
 
-<!-- 2. Вторая строка — F24_5 и F24_6 -->
+<!-- 2. Вторая строка — F24_5 и (теперь) F24_8 -->
 <p align="center">
   <a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="ERP Interface"/></a>
-  <a href="./assets/full/F24_6.png"><img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="ERP Workflow"/></a>
+  <a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Warehouse Module"/></a>
 </p>
 
-<!-- 3. Третья строка — F24_8 и TimeLineInfo -->
+<!-- 3. Третья строка — (теперь) F24_6 и TimeLineInfo -->
 <p align="center">
-  <a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Warehouse Module"/></a>
+  <a href="./assets/full/F24_6.png"><img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="ERP Workflow"/></a>
   <a href="./assets/full/TimeLineInfo.png"><img src="./assets/thumbs/TimeLineInfo_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Timeline Info"/></a>
 </p>
 
@@ -237,6 +237,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   <a href="./assets/full/Mobile1.png"><img src="./assets/thumbs/Mobile1_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Mobile App 1"/></a>
   <a href="./assets/full/Mobile3.png"><img src="./assets/thumbs/Mobile3_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Mobile App 2"/></a>
 </p>
+
 
 ---
 
