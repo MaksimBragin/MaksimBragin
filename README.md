@@ -209,57 +209,34 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ## 📸 Project Screenshots
 
-<!-- Общий стиль: увеличенный отступ -->
-<!-- (padding:14px + margin:14px = заметная «воздушность») -->
-
-<!-- 1. Первая строка — скриншоты 2 и 3 -->
+<!-- 1. Первая строка — F24_3 и F24_4 -->
 <p align="center">
-  <a href="./assets/full/F24_3.png">
-    <img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="Forwarder24 Reports"/>
-  </a>
-  <a href="./assets/full/F24_4.png">
-    <img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="Forwarder24 UI"/>
-  </a>
+  <a href="./assets/full/F24_3.png"><img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Forwarder24 Reports"/></a>
+  <a href="./assets/full/F24_4.png"><img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Forwarder24 UI"/></a>
 </p>
 
 <!-- 2. Вторая строка — F24_5 и F24_6 -->
 <p align="center">
-  <a href="./assets/full/F24_5.png">
-    <img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="ERP Interface"/>
-  </a>
-  <a href="./assets/full/F24_6.png">
-    <img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="ERP Workflow"/>
-  </a>
+  <a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="ERP Interface"/></a>
+  <a href="./assets/full/F24_6.png"><img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="ERP Workflow"/></a>
 </p>
 
 <!-- 3. Третья строка — F24_8 и TimeLineInfo -->
 <p align="center">
-  <a href="./assets/full/F24_8.png">
-    <img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="Warehouse Module"/>
-  </a>
-  <a href="./assets/full/TimeLineInfo.png">
-    <img src="./assets/thumbs/TimeLineInfo_thumb.jpg" width="340" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="Timeline Info"/>
-  </a>
+  <a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Warehouse Module"/></a>
+  <a href="./assets/full/TimeLineInfo.png"><img src="./assets/thumbs/TimeLineInfo_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Timeline Info"/></a>
 </p>
 
-<!-- 4. Отдельная строка — большой F24, но уменьшенный до тех же 340px -->
+<!-- 4. Отдельная строка — F24 уменьшен вдвое (170px) -->
 <p align="center">
-  <a href="./assets/full/F24.png">
-    <img src="./assets/thumbs/F24_thumb.jpg" width="340" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="Forwarder24 Main Dashboard"/>
-  </a>
+  <a href="./assets/full/F24.png"><img src="./assets/thumbs/F24_thumb.jpg" width="170" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Forwarder24 Main Dashboard"/></a>
 </p>
 
-<!-- 5. Последняя строка — мобильные -->
+<!-- 5. Последняя строка — мобильные уменьшены вдвое (110px) -->
 <p align="center">
-  <a href="./assets/full/Mobile1.png">
-    <img src="./assets/thumbs/Mobile1_thumb.jpg" width="220" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="Mobile App 1"/>
-  </a>
-  <a href="./assets/full/Mobile3.png">
-    <img src="./assets/thumbs/Mobile3_thumb.jpg" width="220" style="padding:14px;border:1px solid #eee;border-radius:6px;margin:14px;" alt="Mobile App 2"/>
-  </a>
+  <a href="./assets/full/Mobile1.png"><img src="./assets/thumbs/Mobile1_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Mobile App 1"/></a>
+  <a href="./assets/full/Mobile3.png"><img src="./assets/thumbs/Mobile3_thumb.jpg" width="110" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" alt="Mobile App 2"/></a>
 </p>
-
-
 
 ---
 
