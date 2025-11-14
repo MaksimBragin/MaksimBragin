@@ -3,7 +3,7 @@
 # Full Stack .NET Developer  
 **Software Engineer | Architect | CTO | CEO**
 
-[In English](#english) | [На русском](#russian) | [Eesti keeles](#estonian)
+[In English](#english) | [На русском](#russian) | [Eesti keeles](#estonian) | [📸 Screenshots](#screenshots)
 
 ---
 
@@ -68,7 +68,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-🔝 [Back to top](#top) | [На русском](#russian) | [Eesti keeles](#estonian)
+🔝 [Back to top](#top) | [На русском](#russian) | [Eesti keeles](#estonian) | [📸 Project Screenshots](#screenshots)
 
 ---
 
@@ -135,7 +135,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-🔝 [Наверх](#top) | [In English](#english) | [Eesti keeles](#estonian)
+🔝 [Наверх](#top) | [In English](#english) | [Eesti keeles](#estonian) | [📸 Скриншоты проектов](#screenshots)
 
 ---
 
@@ -202,12 +202,15 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ---
 
-🔝 [Tagasi algusesse](#top) | [In English](#english) | [На русском](#russian)
+🔝 [Tagasi algusesse](#top) | [In English](#english) | [На русском](#russian) | [📸 Projekti ekraanipildid](#screenshots)
 
 
 ---
 
+<a name="screenshots"></a>
+
 ## 📸 Project Screenshots
+
 
 <p align="center">
   <a href="./assets/full/F24_3.png"><img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>  
