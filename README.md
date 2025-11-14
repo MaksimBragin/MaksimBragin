@@ -243,12 +243,12 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- Предпоследняя строка (бывшие F24 и F24_6), теперь одинаковые -->
 <p align="center">
   <a href="./assets/full/F24.png">
     <img src="./assets/thumbs/F24_thumb.jpg"
          width="235"
-         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
+         style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px 60px 28px 28px;" />
+         <!-- увеличенный правый margin: 60px -->
   </a>
   <a href="./assets/full/F24_6.png">
     <img src="./assets/thumbs/F24_6_thumb.jpg"
@@ -256,6 +256,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
 </p>
+
 
 <!-- Последняя строка — мобильные (уменьшенные) -->
 <p align="center">
