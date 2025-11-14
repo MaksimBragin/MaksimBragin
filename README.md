@@ -210,13 +210,13 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 ## 📸 Project Screenshots
 
 <p align="center">
-  <a href="./assets/full/F24_3.png"><img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a><!--
-  --><a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
+  <a href="./assets/full/F24_3.png"><img src="./assets/thumbs/F24_3_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>  
+  <a href="./assets/full/F24_8.png"><img src="./assets/thumbs/F24_8_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
 </p>
 
 <p align="center">
-  <a href="./assets/full/F24_4.png"><img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a><!--
-  --><a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
+  <a href="./assets/full/F24_4.png"><img src="./assets/thumbs/F24_4_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>  
+  <a href="./assets/full/F24_5.png"><img src="./assets/thumbs/F24_5_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
 </p>
 
 <p align="center">
@@ -224,13 +224,13 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 </p>
 
 <p align="center">
-  <a href="./assets/full/F24.png"><img src="./assets/thumbs/F24_thumb.jpg" width="235" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px 60px 28px 28px;" /></a><!--
-  --><a href="./assets/full/F24_6.png"><img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
+  <a href="./assets/full/F24.png"><img src="./assets/thumbs/F24_thumb.jpg" width="235" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px 60px 28px 28px;" /></a>  
+  <a href="./assets/full/F24_6.png"><img src="./assets/thumbs/F24_6_thumb.jpg" width="340" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
 </p>
 
 <p align="center">
-  <a href="./assets/full/Mobile1.png"><img src="./assets/thumbs/Mobile1_thumb.jpg" width="150" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a><!--
-  --><a href="./assets/full/Mobile3.png"><img src="./assets/thumbs/Mobile3_thumb.jpg" width="150" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
+  <a href="./assets/full/Mobile1.png"><img src="./assets/thumbs/Mobile1_thumb.jpg" width="150" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>  
+  <a href="./assets/full/Mobile3.png"><img src="./assets/thumbs/Mobile3_thumb.jpg" width="150" style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" /></a>
 </p>
 
 
