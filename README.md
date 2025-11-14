@@ -247,7 +247,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 <p align="center">
   <a href="./assets/full/F24.png">
     <img src="./assets/thumbs/F24_thumb.jpg"
-         width="250"
+         width="235"
          style="padding:28px;border:1px solid #eee;border-radius:6px;margin:28px;" />
   </a>
   <a href="./assets/full/F24_6.png">
