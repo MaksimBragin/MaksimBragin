@@ -209,7 +209,6 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ## 📸 Project Screenshots
 
-<!-- 1. Первая строка — F24_3 и F24_8 -->
 <p align="center">
   <a href="./assets/full/F24_3.png">
     <img src="./assets/thumbs/F24_3_thumb.jpg"
@@ -223,7 +222,6 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- 2. Вторая строка — F24_4 и F24_5 -->
 <p align="center">
   <a href="./assets/full/F24_4.png">
     <img src="./assets/thumbs/F24_4_thumb.jpg"
@@ -237,7 +235,6 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- 3. Третья строка — TimeLineInfo (увеличенный) -->
 <p align="center">
   <a href="./assets/full/TimeLineInfo.png">
     <img src="./assets/thumbs/TimeLineInfo_thumb.jpg"
@@ -246,7 +243,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- 4+5. Объединённая строка — F24 и F24_6 (одинаковый размер) -->
+<!-- Предпоследняя строка (бывшие F24 и F24_6), теперь одинаковые -->
 <p align="center">
   <a href="./assets/full/F24.png">
     <img src="./assets/thumbs/F24_thumb.jpg"
@@ -260,7 +257,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
   </a>
 </p>
 
-<!-- 6. Последняя строка — мобильные (уменьшенные) -->
+<!-- Последняя строка — мобильные (уменьшенные) -->
 <p align="center">
   <a href="./assets/full/Mobile1.png">
     <img src="./assets/thumbs/Mobile1_thumb.jpg"
