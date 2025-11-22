@@ -89,7 +89,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 Последние **10 лет** активно работаю с **.NET** и современными **web-архитектурами**.  
 Развиваю собственный SaaS-сервис [forwarder24.com](https://forwarder24.com) и создаю **B2B-системы** под индивидуальные требования бизнеса в роли **CTO и ведущего исполнителя проектов**.  
-Имею опыт сопровождения **международных проектов**, охватывающих несколько стран и языковых групп.
+У меня есть опыт разработки и управления проектами, охватывающими несколько стран и языковых групп на разных континентах.
 
 ---
 
@@ -156,7 +156,7 @@ Need lahendused on viimaste aastakümnete jooksul olnud edukalt kasutusel **üle
 
 Viimased **10 aastat** olen aktiivselt töötanud **.NET** ja kaasaegsete **veebiarhitektuuride** alal.  
 Arendan oma SaaS-platvormi [forwarder24.com](https://forwarder24.com) ning loon **B2B-süsteeme**, mis on kohandatud ettevõtete individuaalsetele vajadustele, tegutsedes **CTO ja juhtiva arendajana**.  
-Mul on kogemus mitut riiki ja keelerühma hõlmavate projektide arendamise ja haldamisega erinevatel mandritel.
+Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki ja keelegruppi eri kontinentidel.
 
 ---
 
