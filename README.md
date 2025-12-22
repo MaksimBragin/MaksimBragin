@@ -32,10 +32,10 @@ I have experience in developing and managing projects covering multiple countrie
 `.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend & UI:**  
-`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`, `MS Access`
+`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`
 
 ✔️ **Databases:**  
-`MS SQL Server`, `PostgreSQL`, `MySQL`, `MS Access`
+`MS SQL Server`, `PostgreSQL`, `MySQL`
 
 ✔️ **Integrations:**  
 `API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, accounting systems, product suppliers, telematics services
@@ -104,10 +104,10 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 `.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend и UI:**  
-`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`, `MS Access`
+`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`
 
 ✔️ **Базы данных:**  
-`MS SQL Server`, `PostgreSQL`, `MySQL`, `MS Access`
+`MS SQL Server`, `PostgreSQL`, `MySQL`
 
 ✔️ **Интеграции:**  
 `API`, `JSON/XML`, `Web Services`, `1С`, `GPS`, бухгалтерские системы, поставщики товаров, сервисы телематики
@@ -175,10 +175,10 @@ Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki j
 `.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend ja kasutajaliides:**  
-`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`, `MS Access`
+`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`
 
 ✔️ **Andmebaasid:**  
-`MS SQL Server`, `PostgreSQL`, `MySQL`, `MS Access`
+`MS SQL Server`, `PostgreSQL`, `MySQL`
 
 ✔️ **Integratsioonid:**  
 `API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, raamatupidamissüsteemid, tarnijate ja telemaatika teenused
