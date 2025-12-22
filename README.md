@@ -13,7 +13,7 @@ Software developer with more than **30 years of experience** in designing and im
 
 Specialized in **web-based solutions** for automation of logistics, accounting, manufacturing, sales, and warehouse operations — from internal ERP systems to cloud-based SaaS platforms.
 
-Author of **20+ full-featured software products** as **CEO and CTO**, including:  
+Author of **20+ full-featured software products** as **CEO, CTO and CSM**, including:  
 - a suite of desktop industry solutions — **CargoPro**, **ERP**, and **WMS**;  
 - commercial products **EhitusEelarve** (500+ sales) and **Sõidulehed** (500+ sales).  
 
@@ -89,7 +89,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 Специализируюсь на **WEB-решениях для автоматизации логистики, учёта, производства, продаж и складских процессов** — от внутренних ERP-решений до облачных SaaS-платформ.
 
-Автор **более 20 полноценных программных продуктов** в роли **CEO и CTO**, включая:  
+Автор **более 20 полноценных программных продуктов** в роли **CEO, CTO и CSM**, включая:  
 - группу десктопных отраслевых решений **CargoPro**, **ERP** и **WMS**;  
 - тиражные продукты **EhitusEelarve** (более 500 продаж) и **Sõidulehed** (более 500 продаж).  
 
@@ -163,7 +163,7 @@ Azure (cloud services, virtual machines, PaaS, SaaS), `Docker`, `Windows Server`
 Spetsialiseerunud **veebipõhistele lahendustele** logistika, raamatupidamise, tootmise, müügi ja laoprotsesside automatiseerimiseks —  
 alates sisemistest ERP-süsteemidest kuni pilvepõhiste SaaS-platvormideni.
 
-**Üle 20 täieliku tarkvaratoote autor** tegevjuhina (CEO) ja tehnoloogiajuhina (CTO), sealhulgas:  
+**Üle 20 täieliku tarkvaratoote autor** CEO, CTO ja CSM, sealhulgas:  
 - tööstusspetsiifiliste töölauarakenduste sari **CargoPro**, **ERP** ja **WMS**;  
 - kommertstooded **EhitusEelarve** (500+ müüki) ja **Sõidulehed** (500+ müüki).  
 
