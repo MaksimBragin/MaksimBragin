@@ -9,7 +9,7 @@
 
 ## In English
 
-Software developer with **30+ years of experience** in designing and implementing business applications.
+Software developer with more than **30 years of experience** in designing and implementing business applications for commercial and public-sector organizations.
 
 Specialized in **web-based solutions** for automation of logistics, accounting, manufacturing, sales, and warehouse operations — from internal ERP systems to cloud-based SaaS platforms.
 
@@ -48,9 +48,15 @@ I have experience in developing and managing projects covering multiple countrie
 
 ---
 
+I started working with **legacy technologies** that were widely used in the **1990s and 2000s**, and I have **deep hands-on experience in developing and maintaining complex solutions** based on **MS Access + MS SQL Server**, including multi-layer **business logic**, **reporting**, and **integrations**.
+
+Currently, I perform **only data and functionality migration to modern architectures** from technologies and formats such as `MDB`, `FoxPro`, `Visual FoxPro`, `DBF / dBase`, `Paradox`, `Clipper`, `Btrieve`, `CSV / TXT`,  **legacy file-based databases**, and **custom formats**,  while **preserving business logic and data integrity**.
+
+---
+
 Actively applying **AI technologies** in software design and development —  from **data analysis** and **business process automation** to **AI-assisted coding** and **development optimization**.
 
-Former **Microsoft Partner** (*Dynamics*), currently collaborating with **Telerik (Progress)** on product development with a valid commercial license.
+Has many years of partnership experience with **Microsoft** on *Dynamics*; currently collaborates with **Telerik (Progress)** on product development and holds an active license.
 
 Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed software for the **Logistics Department of Tallinn University of Technology (TalTech)** and other state-level organizations.
 
@@ -76,7 +82,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ## На русском
 
-Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений.
+Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений для коммерческих и государственных организаций.
 
 Специализируюсь на **WEB-решениях для автоматизации логистики, учёта, производства, продаж и складских процессов** — от внутренних ERP-решений до облачных SaaS-платформ.
 
@@ -112,11 +118,15 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 ✔️ **CMS и e-commerce:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
 
+Начинал работу с технологиями предыдущих поколений, широко применявшимися в **1990-е и 2000-е годы**,  и имею **глубокий практический опыт разработки и сопровождения сложных решений** на **MS Access + MS SQL Server** с многоуровневой **бизнес-логикой**, **отчётностью** и **интеграциями**.
+
+Сейчас выполняю **только перенос данных и функционала в современные архитектуры** из технологий и форматов, таких как `MDB`, `FoxPro`, `Visual FoxPro`, `DBF / dBase`, `Paradox`, `Clipper`, `Btrieve`, `CSV / TXT`, **старые файловые базы данных** и **кастомные форматы**, с **сохранением бизнес-логики и целостности данных**.
+
 ---
 
 Активно применяю **AI** при проектировании и разработке решений — от анализа данных и автоматизации бизнес-процессов до **AI-assisted coding** и оптимизации разработки.
 
-Был партнёром **Microsoft** по *Dynamics*, в настоящее время сотрудничаю с **Telerik (Progress)** по развитию продукта и имею их лицензию.
+Есть многолетний опыт партнёрства с **Microsoft** по *Dynamics*, в настоящее время сотрудничаю с **Telerik (Progress)** по развитию продукта и имею их лицензию.
 
 Участвовал в реализации **проектов с государственным финансированием** (PRIA, ERAA, EAS). Разрабатывал ПО для **кафедры логистики Таллиннского технического университета (TalTech, ранее ТТУ)** и других предприятий государственного значения.
 
@@ -142,7 +152,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ## Eesti keeles
 
-Tarkvaraarendaja, kellel on **üle 30-aastane kogemus** ärirakenduste projekteerimisel ja elluviimisel.
+**Üle 30-aastase kogemusega** tarkvaraarendaja äritarkvara projekteerimisel ja arendamisel nii era- kui ka avaliku sektori organisatsioonidele.
 
 Spetsialiseerunud **veebipõhistele lahendustele** logistika, raamatupidamise, tootmise, müügi ja laoprotsesside automatiseerimiseks —  
 alates sisemistest ERP-süsteemidest kuni pilvepõhiste SaaS-platvormideni.
@@ -179,11 +189,15 @@ Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki j
 ✔️ **CMS ja e-kaubandus:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
 
+Alustasin tööd **varasemate põlvkondade tehnoloogiatega**, mida kasutati laialdaselt **1990. ja 2000. aastatel**, ning mul on **sügav praktiline kogemus keerukate lahenduste arendamisel ja hooldamisel**, kasutades **MS Access + MS SQL Server**-it, koos mitmetasandilise **äriloogika**, **aruandluse** ja **integratsioonidega**.
+
+Praegu tegelen **ainult andmete ja funktsionaalsuse üleviimisega kaasaegsetesse arhitektuuridesse** tehnoloogiatest ja vormingutest nagu `MDB`, `FoxPro`, `Visual FoxPro`, `DBF / dBase`, `Paradox`, `Clipper`, `Btrieve`, `CSV / TXT`, **vanad failipõhised andmebaasid** ja **kohandatud vormingud**, säilitades **äriloogika ja andmete tervikluse**.
+
 ---
 
 Kasutab aktiivselt **tehisintellekti (AI)** tarkvaralahenduste projekteerimisel ja arendamisel — alates **andmeanalüüsist** ja **äriprotsesside automatiseerimisest** kuni **AI-toega koodikirjutamise** ja **arenduse optimeerimiseni**.
 
-Endine **Microsofti Dynamicsi partner**, praegu teeb koostööd ettevõttega **Telerik (Progress)** toote arenduse vallas ja omab nende kommertslitsentsi.
+On pikaajaline kogemus **partnerlusest Microsoftiga** *(Dynamics)*, ning praegu teen koostööd **Telerikuga (Progress)** toodete arendamisel ja omab kehtivat litsentsi.
 
 Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tarkvara **TalTechi logistikainstituudile** (endine TTÜ) ja teistele riikliku tähtsusega organisatsioonidele.
 
