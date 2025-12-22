@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 # Full Stack .NET Developer  
-**Software Engineer | Architect | CTO | CEO**
+**Software Engineer | Architect | CTO | CEO | CSM**
 
 [In English](#english) | [На русском](#russian) | [Eesti keeles](#estonian) | [📸 Screenshots](#screenshots)
 
@@ -263,3 +263,4 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 🔝 [Back to top](#top) | [In English](#english) | [На русском](#russian) | [Eesti keeles](#estonian)
 
 
+[![Hits](https://hits.sh/github.com/MaksimBragin.svg)](https://hits.sh/github.com/MaksimBragin/)
