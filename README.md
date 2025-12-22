@@ -28,6 +28,9 @@ I have experience in developing and managing projects covering multiple countrie
 
 ### Core Competencies
 
+✔️ **Software Solution Architecture:**
+Design, development, and modernization of complex enterprise systems — both proprietary and third-party solutions — from legacy systems of the 1990s–2000s to modern cloud and microservices architectures
+
 ✔️ **Full Stack .NET Development:**  
 `.NET / ASP.NET Core (from legacy to latest .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
@@ -100,6 +103,9 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ### Основные компетенции
 
+✔️ **Архитектура программных решений:**
+Проектирование, развитие и модернизация комплексных корпоративных систем — как собственной разработки, так и сторонних решений — от legacy-систем 1990–2000-х годов до современных cloud- и microservices-архитектур
+
 ✔️ **Full Stack .NET разработка:**  
 `.NET / ASP.NET Core (от устаревших версий до последней .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
@@ -170,6 +176,9 @@ Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki j
 ---
 
 ### Põhioskused
+
+✔️ **Tarkvaralahenduste arhitektuur:**
+Keerukate ettevõttelahenduste projekteerimine, arendamine ja moderniseerimine — nii oma arenduste kui ka kolmandate osapoolte lahenduste puhul — alates 1990.–2000. aastate legacy-süsteemidest kuni tänapäevaste pilve- ja mikroteenuste arhitektuurideni
 
 ✔️ **Full Stack .NET arendus:**  
 `.NET / ASP.NET Core (alates vanadest versioonidest kuni uusima .NET 9-ni)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
