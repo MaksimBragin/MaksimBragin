@@ -29,22 +29,22 @@ I have experience in developing and managing projects covering multiple countrie
 ### Core Competencies
 
 ✔️ **Software Solution Architecture:**  
-Design, development, and modernization of complex enterprise systems — both proprietary and third-party solutions — from legacy systems of the 1990s–2000s to modern cloud and microservices architectures
+`Design, development, and modernization of complex enterprise systems — both proprietary and third-party solutions — from legacy systems of the 1990s–2000s to modern cloud and microservices architectures`
 
 ✔️ **Full Stack .NET Development:**  
 `.NET / ASP.NET Core (from legacy to latest .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend & UI:**  
-Telerik UI (Razor, Kendo UI), React, TypeScript, JavaScript, Angular (mid),  jQuery
+`Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
 
 ✔️ **Databases:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
 
 ✔️ **Integrations:**  
-`API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, accounting systems, product suppliers, telematics services
+`API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, `accounting systems`, `product suppliers`, `telematics services`
 
 ✔️ **DevOps & Infrastructure:**  
-Azure (cloud services, virtual machines, PaaS, SaaS), `Docker`, `Windows Server`, `Hyper-V`, microservices architectures, own hosting [pilv24.ee](https://pilv24.ee)
+`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `microservices architectures`, `own hosting [pilv24.ee](https://pilv24.ee)`
 
 ✔️ **CMS & e-commerce:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
@@ -104,25 +104,25 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 ### Основные компетенции
 
 ✔️ **Архитектура программных решений:**  
-Проектирование, развитие и модернизация комплексных корпоративных систем — как собственной разработки, так и сторонних решений — от legacy-систем 1990–2000-х годов до современных cloud- и microservices-архитектур
+`Проектирование, развитие и модернизация комплексных корпоративных систем — как собственной разработки, так и сторонних решений — от legacy-систем 1990–2000-х годов до современных cloud- и microservices-архитектур`
 
 ✔️ **Full Stack .NET разработка:**  
-.NET / ASP.NET Core (от устаревших версий до последней .NET 9), C#, Razor, Entity Framework, REST API, SignalR
+`.NET / ASP.NET Core (от устаревших версий до последней .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend и UI:**  
-Telerik UI (Razor, Kendo UI), React, TypeScript, JavaScript, Angular (mid),  jQuery
+`Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
 
 ✔️ **Базы данных:**  
-MS SQL Server, PostgreSQL, MySQL
+`MS SQL Server`, `PostgreSQL`, `MySQL`
 
 ✔️ **Интеграции:**  
-API, JSON/XML, Web Services, 1С, GPS, бухгалтерские системы, поставщики товаров, сервисы телематики
+`API`, `JSON/XML`, `Web Services`, `1С`, `GPS`, `бухгалтерские системы`, `поставщики товаров`, `сервисы телематики`
 
 ✔️ **DevOps и инфраструктура:**  
-Azure (cloud services, virtual machines, PaaS, SaaS), Docker, Windows Server, Hyper-V, архитектура микросервисов, собственный хостинг [pilv24.ee](https://pilv24.ee)
+`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `архитектура микросервисов`, `собственный хостинг [pilv24.ee](https://pilv24.ee)`
 
 ✔️ **CMS и e-commerce:**  
-nopCommerce, Orchard Core, Piranha CMS
+`nopCommerce`, `Orchard Core`, `Piranha CMS`
 
 Начинал работу с технологиями предыдущих поколений, широко применявшимися в **1990-е и 2000-е годы**,  и имею **глубокий практический опыт разработки и сопровождения сложных решений** на **MS Access + MS SQL Server** с многоуровневой **бизнес-логикой**, **отчётностью** и **интеграциями**.
 
@@ -178,22 +178,22 @@ Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki j
 ### Põhioskused
 
 ✔️ **Tarkvaralahenduste arhitektuur:**  
-Keerukate ettevõttelahenduste projekteerimine, arendamine ja moderniseerimine — nii oma arenduste kui ka kolmandate osapoolte lahenduste puhul — alates 1990.–2000. aastate legacy-süsteemidest kuni tänapäevaste pilve- ja mikroteenuste arhitektuurideni
+`Keerukate ettevõttelahenduste projekteerimine, arendamine ja moderniseerimine — nii oma arenduste kui ka kolmandate osapoolte lahenduste puhul — alates 1990.–2000. aastate legacy-süsteemidest kuni tänapäevaste pilve- ja mikroteenuste arhitektuurideni`
 
 ✔️ **Full Stack .NET arendus:**  
 `.NET / ASP.NET Core (alates vanadest versioonidest kuni uusima .NET 9-ni)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend ja kasutajaliides:**  
-Telerik UI (Razor, Kendo UI), React, TypeScript, JavaScript, Angular (mid),  jQuery
+`Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
 
 ✔️ **Andmebaasid:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
 
 ✔️ **Integratsioonid:**  
-`API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, raamatupidamissüsteemid, tarnijate ja telemaatika teenused
+`API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, `raamatupidamissüsteemid`, `tarnijate` ja `telemaatika` teenused
 
 ✔️ **DevOps ja infrastruktuur:**  
-Azure (cloud services, virtual machines, PaaS, SaaS), `Docker`, `Windows Server`, `Hyper-V`, mikroteenuste arhitektuur, oma majutus [pilv24.ee](https://pilv24.ee)
+`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `mikroteenuste arhitektuur`, `oma majutus [pilv24.ee](https://pilv24.ee)`
 
 ✔️ **CMS ja e-kaubandus:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
