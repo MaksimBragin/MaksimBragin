@@ -29,10 +29,10 @@ I have experience in developing and managing projects covering multiple countrie
 ### Core Competencies
 
 ✔️ **Full Stack .NET Development:**  
-`.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
+`.NET / ASP.NET Core (from legacy to latest .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend & UI:**  
-`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`
+Telerik UI (Razor, Kendo UI), React, TypeScript, JavaScript, Angular (mid),  jQuery
 
 ✔️ **Databases:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
@@ -41,7 +41,7 @@ I have experience in developing and managing projects covering multiple countrie
 `API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, accounting systems, product suppliers, telematics services
 
 ✔️ **DevOps & Infrastructure:**  
-`Docker`, `Windows Server`, `Hyper-V`, own hosting [pilv24.ee](https://pilv24.ee)
+Azure (cloud services, virtual machines, PaaS, SaaS), `Docker`, `Windows Server`, `Hyper-V`, архитектура микросервисов, own hosting [pilv24.ee](https://pilv24.ee)
 
 ✔️ **CMS & e-commerce:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
@@ -101,10 +101,10 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 ### Основные компетенции
 
 ✔️ **Full Stack .NET разработка:**  
-`.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
+`.NET / ASP.NET Core (от устаревших версий до последней .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend и UI:**  
-`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`
+Telerik UI (Razor, Kendo UI), React, TypeScript, JavaScript, Angular (mid),  jQuery
 
 ✔️ **Базы данных:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
@@ -113,7 +113,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 `API`, `JSON/XML`, `Web Services`, `1С`, `GPS`, бухгалтерские системы, поставщики товаров, сервисы телематики
 
 ✔️ **DevOps и инфраструктура:**  
-`Docker`, `Windows Server`, `Hyper-V`, собственный хостинг [pilv24.ee](https://pilv24.ee)
+Azure (cloud services, virtual machines, PaaS, SaaS), `Docker`, `Windows Server`, `Hyper-V`, microservices architectures, собственный хостинг [pilv24.ee](https://pilv24.ee)
 
 ✔️ **CMS и e-commerce:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
@@ -172,10 +172,10 @@ Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki j
 ### Põhioskused
 
 ✔️ **Full Stack .NET arendus:**  
-`.NET Core`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
+`.NET / ASP.NET Core (alates vanadest versioonidest kuni uusima .NET 9-ni)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend ja kasutajaliides:**  
-`HTML5`, `CSS3`, `JavaScript/TypeScript`, `jQuery`, `Telerik UI (Razor, Kendo UI)`
+Telerik UI (Razor, Kendo UI), React, TypeScript, JavaScript, Angular (mid),  jQuery
 
 ✔️ **Andmebaasid:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
@@ -184,7 +184,7 @@ Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki j
 `API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, raamatupidamissüsteemid, tarnijate ja telemaatika teenused
 
 ✔️ **DevOps ja infrastruktuur:**  
-`Docker`, `Windows Server`, `Hyper-V`, oma majutus [pilv24.ee](https://pilv24.ee)
+Azure (cloud services, virtual machines, PaaS, SaaS), `Docker`, `Windows Server`, `Hyper-V`, mikroteenuste arhitektuur, oma majutus [pilv24.ee](https://pilv24.ee)
 
 ✔️ **CMS ja e-kaubandus:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
