@@ -44,7 +44,7 @@ I have experience in developing and managing projects covering multiple countrie
 `API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, `accounting systems`, `product suppliers`, `telematics services`
 
 ✔️ **DevOps & Infrastructure:**  
-`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `microservices architectures`, `own hosting [pilv24.ee](https://pilv24.ee)`
+`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `microservices architectures`, `own hosting` [pilv24.ee](https://pilv24.ee)
 
 ✔️ **CMS & e-commerce:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
@@ -119,7 +119,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 `API`, `JSON/XML`, `Web Services`, `1С`, `GPS`, `бухгалтерские системы`, `поставщики товаров`, `сервисы телематики`
 
 ✔️ **DevOps и инфраструктура:**  
-`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `архитектура микросервисов`, `собственный хостинг [pilv24.ee](https://pilv24.ee)`
+`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `архитектура микросервисов`, `собственный хостинг` [pilv24.ee](https://pilv24.ee)
 
 ✔️ **CMS и e-commerce:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
@@ -193,7 +193,7 @@ Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki j
 `API`, `JSON/XML`, `Web Services`, `1C`, `GPS`, `raamatupidamissüsteemid`, `tarnijate` ja `telemaatika` teenused
 
 ✔️ **DevOps ja infrastruktuur:**  
-`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `mikroteenuste arhitektuur`, `oma majutus [pilv24.ee](https://pilv24.ee)`
+`Azure (cloud services, virtual machines, PaaS, SaaS)`, `Docker`, `Windows Server`, `Hyper-V`, `mikroteenuste arhitektuur`, `oma majutus` [pilv24.ee](https://pilv24.ee)
 
 ✔️ **CMS ja e-kaubandus:**  
 `nopCommerce`, `Orchard Core`, `Piranha CMS`
