@@ -65,7 +65,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
- **Open for collaboration, consulting, and exciting new projects.**
+ **Open to collaboration, complex and ambitious projects, and new challenges. I am motivated by difficult tasks, new technologies, and the opportunity to create strong, competitive solutions. I am results-driven, ready to take responsibility, and willing to put in maximum effort to achieve goals. I am especially interested in new technologies, unconventional challenges, and opportunities for growth.**
 
 ---
 
@@ -138,7 +138,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
-**Открыт к сотрудничеству, консультациям и новым интересным проектам.**
+**Открыт к сотрудничеству, сложным амбициозным проектам и новым вызовам. Меня мотивируют сложные задачи, новые технологии и возможность создавать сильные, конкурентные решения. Готов работать на результат, брать на себя ответственность и прикладывать максимум усилий для достижения целей. Особенно интересны новые технологии, нестандартные задачи и возможности для роста.**
 
 ---
 
@@ -212,7 +212,7 @@ Osalenud **riiklikult rahastatud projektides** (PRIA, ERAA, EAS). Arendanud tark
 
 ---
 
-📬 **Avatud koostööle, konsultatsioonidele ja uutele huvitavatele projektidele.**
+📬 **Olen avatud koostööle, keerukatele ja ambitsioonikatele projektidele ning uutele väljakutsetele. Mind motiveerivad keerulised ülesanded, uued tehnoloogiad ja võimalus luua tugevaid ning konkurentsivõimelisi lahendusi. Olen tulemusele orienteeritud, valmis võtma vastutust ja panustama maksimaalselt eesmärkide saavutamiseks. Eriti huvitavad mind uued tehnoloogiad, ebastandardsed väljakutsed ja arenguvõimalused.**
 
 ---
 
