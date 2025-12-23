@@ -21,10 +21,7 @@ Author of **20+ full-featured software products** as **CEO, CTO and CSM**, inclu
 
 These solutions have been successfully used by **1,500+ companies** in Estonia and abroad — many still operating today.
 
-For the past **10 years**, actively working with **.NET** and modern **web architectures**.  
-Founder and developer of the SaaS platform [forwarder24.com](https://forwarder24.com).  
-Designing and building **B2B systems** tailored to specific business needs, acting as **CTO and lead engineer**.  
-I have experience in developing and managing projects covering multiple countries and language groups across different continents.
+For the past **10 years**, actively working with **.NET** and modern **web architectures**. Founder and developer of the SaaS platform [forwarder24.com](https://forwarder24.com). Designing and building **B2B systems** tailored to specific business needs, acting as **CTO and lead engineer**. I have experience in developing and managing projects covering multiple countries and language groups across different continents.
 
 ---
 
@@ -97,9 +94,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 Эти решения за последние десятилетия использовались **более чем 1500 предприятиями** в Эстонии и за её пределами — многие из них применяются по сей день.
 
-Последние **10 лет** активно работаю с **.NET** и современными **web-архитектурами**.  
-Развиваю собственный SaaS-сервис [forwarder24.com](https://forwarder24.com) и создаю **B2B-системы** под индивидуальные требования бизнеса в роли **CTO и ведущего исполнителя проектов**.  
-У меня есть опыт разработки и управления проектами, охватывающими несколько стран и языковых групп на разных континентах.
+Последние **10 лет** активно работаю с **.NET** и современными **web-архитектурами**. Развиваю собственный SaaS-сервис [forwarder24.com](https://forwarder24.com) и создаю **B2B-системы** под индивидуальные требования бизнеса в роли **CTO и ведущего исполнителя проектов**. У меня есть опыт разработки и управления проектами, охватывающими несколько стран и языковых групп на разных континентах.
 
 ---
 
@@ -171,9 +166,7 @@ alates sisemistest ERP-süsteemidest kuni pilvepõhiste SaaS-platvormideni.
 
 Need lahendused on viimaste aastakümnete jooksul olnud edukalt kasutusel **üle 1500 ettevõttes** Eestis ja välismaal — paljud neist töötavad tänaseni.
 
-Viimased **10 aastat** olen aktiivselt töötanud **.NET** ja kaasaegsete **veebiarhitektuuride** alal.  
-Arendan oma SaaS-platvormi [forwarder24.com](https://forwarder24.com) ning loon **B2B-süsteeme**, mis on kohandatud ettevõtete individuaalsetele vajadustele, tegutsedes **CTO ja juhtiva arendajana**.  
-Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki ja keelegruppi eri kontinentidel.
+Viimased **10 aastat** olen aktiivselt töötanud **.NET** ja kaasaegsete **veebiarhitektuuride** alal. Arendan oma SaaS-platvormi [forwarder24.com](https://forwarder24.com) ning loon **B2B-süsteeme**, mis on kohandatud ettevõtete individuaalsetele vajadustele, tegutsedes **CTO ja juhtiva arendajana**. Mul on kogemus projektide arendamise ja juhtimisega, mis hõlmavad mitut riiki ja keelegruppi eri kontinentidel.
 
 ---
 
