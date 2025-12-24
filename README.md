@@ -31,7 +31,7 @@ For the past **10 years**, actively working with **.NET** and modern **web archi
 `Design, development, and modernization of complex enterprise systems — both proprietary and third-party solutions`
 
 ✔️ **Full Stack .NET Development:**  
-`.NET / ASP.NET Core (from legacy to latest .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
+`.NET / ASP.NET Core (from legacy to latest .NET 9)`, `C#`, `Razor`, Blazor (Server & WebAssembly), `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend & UI:**  
 `Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
@@ -104,7 +104,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 `Проектирование, развитие и модернизация комплексных корпоративных систем — как собственной разработки, так и сторонних решений`
 
 ✔️ **Full Stack .NET разработка:**  
-`.NET / ASP.NET Core (от устаревших версий до последней .NET 9)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
+`.NET / ASP.NET Core (от устаревших версий до последней .NET 9)`, `C#`, `Razor`, Blazor (Server & WebAssembly), `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend и UI:**  
 `Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
@@ -176,7 +176,7 @@ Viimased **10 aastat** olen aktiivselt töötanud **.NET** ja kaasaegsete **veeb
 `Keerukate ettevõttelahenduste projekteerimine, arendamine ja moderniseerimine — nii oma arenduste kui ka kolmandate osapoolte lahenduste puhul`
 
 ✔️ **Full Stack .NET arendus:**  
-`.NET / ASP.NET Core (alates vanadest versioonidest kuni uusima .NET 9-ni)`, `C#`, `Razor`, `Entity Framework`, `REST API`, `SignalR`
+`.NET / ASP.NET Core (alates vanadest versioonidest kuni uusima .NET 9-ni)`, `C#`, `Razor`, Blazor (Server & WebAssembly), `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend ja kasutajaliides:**  
 `Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
