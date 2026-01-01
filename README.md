@@ -34,7 +34,7 @@ For the past **10 years**, actively working with **.NET** and modern **web archi
 `.NET / ASP.NET Core (from legacy to latest .NET 9)`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend & UI:**  
-`Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
+`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
 
 ✔️ **Databases:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
@@ -107,7 +107,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 `.NET / ASP.NET Core (от устаревших версий до последней .NET 9)`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend и UI:**  
-`Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
+`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
 
 ✔️ **Базы данных:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
@@ -179,7 +179,7 @@ Viimased **10 aastat** olen aktiivselt töötanud **.NET** ja kaasaegsete **veeb
 `.NET / ASP.NET Core (alates vanadest versioonidest kuni uusima .NET 9-ni)`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend ja kasutajaliides:**  
-`Telerik UI (Razor, Kendo UI)`, `React`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
+`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
 
 ✔️ **Andmebaasid:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
