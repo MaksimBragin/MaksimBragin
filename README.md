@@ -81,6 +81,8 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 - **Email:** [maksim.bragin@net-working.ee](mailto:maksim.bragin@net-working.ee)  
 - **Phone:** [+372 5 032 823](tel:+3725032823)  
 - **LinkedIn:** [linkedin.com/in/maksim-bragin](https://www.linkedin.com/in/maksim-bragin)
+
+---
   
 🔝 [Back to top](#top) | [На русском](#russian) | [Eesti keeles](#estonian) | [📸 Project Screenshots](#screenshots)
 
@@ -153,6 +155,14 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
+### Контакты
+
+- **Email:** [maksim.bragin@net-working.ee](mailto:maksim.bragin@net-working.ee)  
+- **Phone:** [+372 5 032 823](tel:+3725032823)  
+- **LinkedIn:** [linkedin.com/in/maksim-bragin](https://www.linkedin.com/in/maksim-bragin)
+
+---
+
 🔝 [Наверх](#top) | [In English](#english) | [Eesti keeles](#estonian) | [📸 Скриншоты проектов](#screenshots)
 
 ---
@@ -222,6 +232,14 @@ Olen avatud koostööle, keerukatele ja ambitsioonikatele projektidele ning uute
 - Olen spetsialiseerunud veebisaitidele kui infosüsteemidele — seal, kus tähtis on funktsionaalsus ja andmetega töötamine, mitte ainult esitus;  
 - Töötan nii **füüsilise isiku** kui ka **juriidilise isikuna**;  
 - **Mahukamate projektide puhul on ette nähtud soodustused.**
+
+---
+
+### Kontakt
+
+- **Email:** [maksim.bragin@net-working.ee](mailto:maksim.bragin@net-working.ee)  
+- **Phone:** [+372 5 032 823](tel:+3725032823)  
+- **LinkedIn:** [linkedin.com/in/maksim-bragin](https://www.linkedin.com/in/maksim-bragin)
 
 ---
 
