@@ -76,6 +76,12 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ---
 
+### Contact
+
+- **Email:** [maksim.bragin@net-working.ee](mailto:maksim.bragin@net-working.ee)  
+- **Phone:** [+372 5 032 823](tel:+3725032823)  
+- **LinkedIn:** [linkedin.com/in/maksim-bragin](https://www.linkedin.com/in/maksim-bragin)
+  
 🔝 [Back to top](#top) | [На русском](#russian) | [Eesti keeles](#estonian) | [📸 Project Screenshots](#screenshots)
 
 ---
