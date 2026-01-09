@@ -11,7 +11,7 @@
 
 ## In English
 
-Software developer with more than **30 years of experience** in designing and implementing business applications for commercial and public-sector organizations.
+Software developer with more than **25 years of experience** in designing and implementing business applications for commercial and public-sector organizations.
 
 Specialized in **web-based solutions** for automation of logistics, accounting, manufacturing, sales, and warehouse operations — from internal ERP systems to cloud-based SaaS platforms.
 
@@ -31,10 +31,10 @@ For the past **10 years**, actively working with **.NET** and modern **web archi
 `Design, development, and modernization of complex enterprise systems — both proprietary and third-party solutions`
 
 ✔️ **Full Stack .NET Development:**  
-`.NET / ASP.NET Core (from legacy to latest .NET 9)`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
+`ASP.NET Core`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend & UI:**  
-`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
+`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`, `jQuery`, `Responsive / Adaptive UI design`
 
 ✔️ **Databases:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
@@ -92,7 +92,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ## На русском
 
-Разработчик программного обеспечения с **более чем 30-летним опытом** проектирования и реализации бизнес-приложений для коммерческих и государственных организаций.
+Разработчик программного обеспечения с **более чем 25-летним опытом** проектирования и реализации бизнес-приложений для коммерческих и государственных организаций.
 
 Специализируюсь на **WEB-решениях для автоматизации логистики, учёта, производства, продаж и складских процессов** — от внутренних ERP-решений до облачных SaaS-платформ.
 
@@ -112,10 +112,10 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 `Проектирование, развитие и модернизация комплексных корпоративных систем — как собственной разработки, так и сторонних решений`
 
 ✔️ **Full Stack .NET разработка:**  
-`.NET / ASP.NET Core (от устаревших версий до последней .NET 9)`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
+`ASP.NET Core`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend и UI:**  
-`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
+`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`, `jQuery`, `Responsive / Adaptive UI design`
 
 ✔️ **Базы данных:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
@@ -171,7 +171,7 @@ Participated in **publicly funded projects** (PRIA, ERAA, EAS). Developed softwa
 
 ## Eesti keeles
 
-**Üle 30-aastase kogemusega** tarkvaraarendaja äritarkvara projekteerimisel ja arendamisel nii era- kui ka avaliku sektori organisatsioonidele.
+**Üle 25-aastase kogemusega** tarkvaraarendaja äritarkvara projekteerimisel ja arendamisel nii era- kui ka avaliku sektori organisatsioonidele.
 
 Spetsialiseerunud **veebipõhistele lahendustele** logistika, raamatupidamise, tootmise, müügi ja laoprotsesside automatiseerimiseks —  
 alates sisemistest ERP-süsteemidest kuni pilvepõhiste SaaS-platvormideni.
@@ -192,10 +192,10 @@ Viimased **10 aastat** olen aktiivselt töötanud **.NET** ja kaasaegsete **veeb
 `Keerukate ettevõttelahenduste projekteerimine, arendamine ja moderniseerimine — nii oma arenduste kui ka kolmandate osapoolte lahenduste puhul`
 
 ✔️ **Full Stack .NET arendus:**  
-`.NET / ASP.NET Core (alates vanadest versioonidest kuni uusima .NET 9-ni)`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
+`ASP.NET Core`, `C#`, `Razor`, `Blazor (Server & WebAssembly)`, `Entity Framework`, `REST API`, `SignalR`
 
 ✔️ **Frontend ja kasutajaliides:**  
-`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`,  `jQuery`
+`Telerik UI (Razor, Kendo UI)`, `React`, `Next.js`, `TypeScript`, `JavaScript`, `Angular (mid)`, `jQuery`, `Responsive / Adaptive UI design`
 
 ✔️ **Andmebaasid:**  
 `MS SQL Server`, `PostgreSQL`, `MySQL`
